@@ -15,7 +15,7 @@ public class DetailsForm : Form
         {
             Text = "Дополнительные функции",
             AutoSize = true,
-            Font = new Font("Segoe UI", 14, FontStyle.Bold),
+            Font = new Font("Segoe UI", 16, FontStyle.Bold),
             Location = new Point(30, 30)
         };
 
